@@ -10,7 +10,7 @@ Evolution X
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/Evolution-X/manifest -b tiramisu
+repo init -u https://github.com/Amit152505/Evolution-X_lisa.git -b tiramisu
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
